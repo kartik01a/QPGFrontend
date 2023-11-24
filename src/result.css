@@ -1,0 +1,45 @@
+.outer{
+    margin: 1rem;
+    
+}
+.mainResult{
+    display: flex;
+    font-size: 1.4rem;
+    font-family: 'Montserrat', sans-serif;
+    flex-direction: column;
+    background-color: #9f7aea;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+.innerMainResult{
+    display: flex;
+    padding: 1rem;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 1.5rem;
+    margin: .5rem 0;
+}
+.spanInner{
+    padding-right: 2rem;
+}
+.spanInner2{
+    display: flex;
+}
+.dot{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem;
+}
+.green{
+    color: rgb(12, 218, 12);
+}
+.red{
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
+.para{
+    font-size: 1.3rem;
+}
