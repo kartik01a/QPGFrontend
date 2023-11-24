@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/QPGFrontend/static/css/main.0545430c.css",
-    "main.js": "/QPGFrontend/static/js/main.0f35762b.js",
+    "main.js": "/QPGFrontend/static/js/main.2a847390.js",
     "static/js/787.9e9f4ffd.chunk.js": "/QPGFrontend/static/js/787.9e9f4ffd.chunk.js",
     "index.html": "/QPGFrontend/index.html",
     "main.0545430c.css.map": "/QPGFrontend/static/css/main.0545430c.css.map",
-    "main.0f35762b.js.map": "/QPGFrontend/static/js/main.0f35762b.js.map",
+    "main.2a847390.js.map": "/QPGFrontend/static/js/main.2a847390.js.map",
     "787.9e9f4ffd.chunk.js.map": "/QPGFrontend/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0545430c.css",
-    "static/js/main.0f35762b.js"
+    "static/js/main.2a847390.js"
   ]
 }
